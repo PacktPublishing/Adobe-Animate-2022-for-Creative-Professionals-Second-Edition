@@ -1,0 +1,1 @@
+# -Adobe-Animate-2022-for-Creative-Professionals
