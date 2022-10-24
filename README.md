@@ -73,3 +73,7 @@ Joseph is an Adobe Education Leader, Adobe Community Professional, and member of
 * [Mastering Adobe Animate 2021](https://www.packtpub.com/product/mastering-adobe-animate-2021/9781801074162?utm_source=github&utm_medium=repository&utm_campaign=9781801074162)
 * [The JavaScript Workshop](https://www.packtpub.com/product/the-javascript-workshop/9781838641917?utm_source=github&utm_medium=repository&utm_campaign=9781838641917)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803232799">https://packt.link/free-ebook/9781803232799 </a> </p>
